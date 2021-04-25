@@ -7,5 +7,5 @@ I started my process researching extinct animals and found thousands of data all
 ## Visualization
 ![goodlinear](https://user-images.githubusercontent.com/79550897/115983296-32eb0b80-a555-11eb-91aa-b3b7399b99af.png)
 The above figure is a linear regression model of the orca populations through the last 20 years. The population actually grew substantially from the years 2001 to 2006, before dipping back down to the lower peak in the year 2011. Past 2011 however, the orca population fell rather dramatically, before going up slightly yet again in 2020, forming a clear negative trend in the data.
-
 ## Analysis
+I wanted to see how the population of orcas have changed in the last 20 years highlighting the J,k and L pods. i chose to focus on all the orca pods because I found that data to be more clear compared to each pod, especially since the numbers were so low. It was hard because the data looked very much over th eplace and there were some outliers in the graphs and data. I found that the data was not drastic and was pretty much between 95 and 70 as the number of orcas. I went through multiple scatter plots and linear regression lines to see that the trend of the populations are negative. This makes me question if the data is going to continue to be negative or if the trends will increase.
