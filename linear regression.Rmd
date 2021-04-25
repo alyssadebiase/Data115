@@ -1,0 +1,28 @@
+---
+title: "linear"
+output: html_document
+---
+```{r whales data}
+jkl <- read.csv("jkl.csv")
+head(jkl)
+```
+here is the data for the project
+```{r scatter }
+```
+
+
+```{r scatter }
+ggplot(jkl, aes(x=year,y=jkl.pod))+ geom_point(color='blue')
+```
+
+
+
+```{r linear}
+linearJKL <- lm(year ~ jkl.pod, jkl)
+summary(linearJKL)
+```
+
+```{r overlay}
+ggplot(jkl, aes(x=year, y= jkl.pod))+geom_point(color= 'blue')+
+  geom_smooth(method = 'lm', formula=y~x, color='green')
+```
