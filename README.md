@@ -7,9 +7,10 @@ Being from the Puget Sound area, I was always interested in sea life. Originally
 ## Data Process
 
 ## Visualization
-![scatter](https://user-images.githubusercontent.com/79550897/115982998-8e1bfe80-a553-11eb-8b5b-f0e69ec5bf4b.png)
-![linear](https://user-images.githubusercontent.com/79550897/115982994-8cead180-a553-11eb-9784-8ee14096ce8a.png)
 
+![goodlinear](https://user-images.githubusercontent.com/79550897/115983248-f3bcba80-a554-11eb-9b4b-db8c18cb329d.png)
+
+This figure is a scatter plot showing orca populations for the years 2000-2020. There is a clear negative trend through the last twenty years. The total population counted in 2020
 
 
 
