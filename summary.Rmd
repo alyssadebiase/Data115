@@ -1,0 +1,14 @@
+---
+title: personl project
+output: html_document
+---
+```{r whales data}
+whales <- read.csv("book1.csv")
+head(whales)
+summary(whales)
+```
+
+```
+
+
+
